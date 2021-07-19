@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/06 10:51:34.000.422,=C:\Users\I7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/16 14:16:32.000.606,=C:\Users\I7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/16 14:38:44.000.527,C:\Users\I7\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\I7\Desktop\Sistema de estoque\unitPrincipal.pas</Transaction>
+    <Transaction>2021/04/16 14:38:44.000.527,C:\Users\I7\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\I7\Desktop\Sistema de estoque\unitPrincipal.dfm</Transaction>
+    <Transaction>2021/04/16 14:38:57.000.038,C:\Users\I7\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\I7\Desktop\Sistema de estoque\Estoque.dproj</Transaction>
+    <Transaction>2021/04/16 14:40:25.000.936,=C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas</Transaction>
+    <Transaction>2021/04/16 14:41:07.000.340,C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas=C:\Users\I7\Desktop\Sistema de estoque\unitCadProduto.pas</Transaction>
+    <Transaction>2021/04/16 14:41:07.000.340,C:\Users\I7\Desktop\Sistema de estoque\Unit1.dfm=C:\Users\I7\Desktop\Sistema de estoque\unitCadProduto.dfm</Transaction>
+    <Transaction>2021/04/16 14:41:20.000.052,=C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas</Transaction>
+    <Transaction>2021/04/16 14:41:39.000.839,C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas=C:\Users\I7\Desktop\Sistema de estoque\unitCadMovimentacao.pas</Transaction>
+    <Transaction>2021/04/16 14:41:39.000.839,C:\Users\I7\Desktop\Sistema de estoque\Unit1.dfm=C:\Users\I7\Desktop\Sistema de estoque\unitCadMovimentacao.dfm</Transaction>
+    <Transaction>2021/04/16 14:42:15.000.974,=C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas</Transaction>
+    <Transaction>2021/04/16 14:43:01.000.120,C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas=C:\Users\I7\Desktop\Sistema de estoque\unitConsMovimentacao.pas</Transaction>
+    <Transaction>2021/04/16 14:43:01.000.120,C:\Users\I7\Desktop\Sistema de estoque\Unit1.dfm=C:\Users\I7\Desktop\Sistema de estoque\unitConsMovimentacao.dfm</Transaction>
+    <Transaction>2021/04/16 14:43:28.000.847,=C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas</Transaction>
+    <Transaction>2021/04/16 14:43:58.000.448,C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas=C:\Users\I7\Desktop\Sistema de estoque\unitDM.pas</Transaction>
+    <Transaction>2021/04/16 14:43:58.000.448,C:\Users\I7\Desktop\Sistema de estoque\Unit1.dfm=C:\Users\I7\Desktop\Sistema de estoque\unitDM.dfm</Transaction>
+    <Transaction>2021/04/20 14:14:38.000.557,=C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas</Transaction>
+    <Transaction>2021/04/20 14:27:51.000.384,C:\Users\I7\Desktop\Sistema de estoque\Unit1.dfm=C:\Users\I7\Desktop\Sistema de estoque\unitCadProdutoMov.dfm</Transaction>
+    <Transaction>2021/04/20 14:27:51.000.383,C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas=C:\Users\I7\Desktop\Sistema de estoque\unitCadProdutoMov.pas</Transaction>
+    <Transaction>2021/04/27 10:33:57.000.591,=C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas</Transaction>
+    <Transaction>2021/04/27 13:41:51.000.226,C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas=C:\Users\I7\Desktop\Sistema de estoque\unitConsMovimentacaoProdutos.pas</Transaction>
+    <Transaction>2021/04/27 13:41:51.000.227,C:\Users\I7\Desktop\Sistema de estoque\Unit1.dfm=C:\Users\I7\Desktop\Sistema de estoque\unitConsMovimentacaoProdutos.dfm</Transaction>
+    <Transaction>2021/04/27 14:13:46.000.608,C:\Users\I7\Desktop\Sistema de estoque\unitConsMovimentacaoProdutos.pas=</Transaction>
+    <Transaction>2021/04/27 14:15:18.000.483,=C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas</Transaction>
+    <Transaction>2021/04/27 14:27:03.000.812,C:\Users\I7\Desktop\Sistema de estoque\unitConsMovimentacaoProdutos.dfm=C:\Users\I7\Desktop\Sistema de estoque\Unit1.dfm</Transaction>
+    <Transaction>2021/04/27 14:27:03.000.810,C:\Users\I7\Desktop\Sistema de estoque\unitConsMovimentacaoProdutos.pas=C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas</Transaction>
+    <Transaction>2021/04/30 15:28:24.391,=C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas</Transaction>
+    <Transaction>2021/04/30 15:29:48.164,C:\Users\I7\Desktop\Sistema de estoque\unitCadUsuario.pas=C:\Users\I7\Desktop\Sistema de estoque\Unit1.pas</Transaction>
+    <Transaction>2021/04/30 15:29:48.164,C:\Users\I7\Desktop\Sistema de estoque\unitCadUsuario.dfm=C:\Users\I7\Desktop\Sistema de estoque\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
